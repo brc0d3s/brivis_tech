@@ -1,0 +1,23 @@
+body {
+    background-color: yellow ; 
+    font-size:20px;
+    text-align: center;
+}
+h2 {
+    font-style: italic;
+    size: 30px;
+    color: #f08080;
+}
+p {
+    font-size: 20px;
+}
+
+.blue {
+    color: blue;
+}
+.red {
+    color: red;
+}
+.green {
+    color: green;
+}
